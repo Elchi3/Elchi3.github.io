@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+
+        <meta name="description" content="Mozillian, web developer, Open Web lover, wannabe photographer, globetrotter.">
+        <meta name="author" content="Florian Scholz">
+
+        <link rel="stylesheet" href="/assets/syntax.css">
+        <link rel="stylesheet" href="/assets/fira.css">
+        <link rel="stylesheet" href="/assets/main.css">
+
+        <link rel="alternate" type="application/atom+xml" href="feed.xml" title="Atom feed">
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+          </div>
+
+          {{ content }}
+
+          <div class="footer">
+
+          <p><img src="http://www.gravatar.com/avatar/7e6c0a216041d48fa163d471e5d71086.png"
+           alt="Florian Scholz" style="border-radius: 5px;" /></p>
+
+            <div class="contact">
+              <p>
+                <strong>Florian Scholz</strong><br />
+                Technical Writer at <a href="http://mozilla.org">Mozilla</a>,<br />
+                Software Developer,<br />
+                Open Source Enthusiast, <br />
+                Bremen, Germany. <br />
+                <a href="mailto:fs@REMOVEflorianscholz.com">fs@<span style="display:none">helloworld</span>florianscholz.com</a>
+              </p>
+            </div>
+            <div class="contact">
+               <p>
+               Follow <a href="http://twitter.com/floscholz">@floscholz</a> <br />
+               Code <a href="https://github.com/Elchi3">GitHub</a><br />
+               Work <a href="http://standu.ps/user/fscholz">Standup</a> <br />
+               Docs <a href="https://developer.mozilla.org/de/profiles/Elchi3">MDN</a> <br />
+               Photos <a href="http://www.flickr.com/photos/florianscholz/">Flickr</a> <br />
+               Feed <a href="{{ site.url }}/feed.xml">Atom</a>
+               </p>
+            </div>
+
+            <div class="contact">
+              <p style="width:230px;">The opinions expressed here are my own and do not 
+               necessarily represent those of current or past employers.
+               <a href="{{ site.url }}/imprint/">Imprint</a>.</p>
+            <div>
+
+          </div>
+        </div>
+
+    </body>
+</html>

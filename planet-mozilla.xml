@@ -1,0 +1,33 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>florianscholz.com</title>
+  <link href="http://florianscholz.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://florianscholz.com/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://florianscholz.com/</id>
+  <author>
+    <name>Florian Scholz</name>
+    <email>fs@foo.com</email>
+  </author>
+
+  {% for post in site.posts %}
+  {% if post.mozplanet %}
+  <entry>
+    <id>http://florianscholz.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://florianscholz.com{{ post.url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Florian Scholz</name>
+      <uri>http://florianscholz.com/</uri>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endif %}
+  {% endfor %}
+
+</feed>
