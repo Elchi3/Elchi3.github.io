@@ -4,23 +4,19 @@
 /*
 /*****************************************************************************/
 
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
 }
 
-html, body { height: 100%; }
-
 body {
-  background-color: #FFF;
+  background-color: #fff;
   font-family: 'Fira Sans';
   font-size: small;
-  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; 
+  font-size: 100%;
 }
 
 h1 { margin-bottom: 1em; }
@@ -47,7 +43,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: 'Fira Mono', monospace;
   font-size: 80%;
 }
 
@@ -60,8 +56,9 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  max-width: 600px;
   margin: 3em auto 2em;
+  padding: 0 2%;
   line-height: 1.5em;
 }
 
@@ -74,7 +71,7 @@ ul.posts span {
   display: inline-block;
   margin-bottom: 20px;
   letter-spacing: 5px;
-  font-size: 48px;
+  font-size: 300%;
 }
 
 .site .header h1.title a {
@@ -85,19 +82,6 @@ ul.posts span {
   color: rgb(170, 170, 170);
 }
 
-.site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
-}
-
-.site .header a.extra:hover {
-  color: #000;
-}
-
-.site .meta {
-  color: #aaa;
-}
-
 .site .footer {
   font-size: 80%;
   color: #666;
@@ -106,23 +90,18 @@ ul.posts span {
   overflow: hidden;
 }
 
-.site .footer .contact {
+.site .footer .column {
   float: left;
   margin-right: 3em;
 }
 
-.site .footer .contact a {
+.site .footer .column a {
   color: #8085C1;
 }
 
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
+.site .footer .column ul {
+  margin: 1em 0;
+  list-style: none;
 }
 
 /*****************************************************************************/
@@ -130,8 +109,6 @@ ul.posts span {
 /* Posts
 /*
 /*****************************************************************************/
-
-/* standard */
 
 .post pre {
   border: 1px solid #ddd;
@@ -162,4 +139,19 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+/*****************************************************************************/
+/*
+/* @media
+/*
+/*****************************************************************************/
+
+@media (max-width: 600px) {
+  .site .header h1.title {
+    font-size: 175%;
+  }
+  ul.posts li {
+    margin: 0 0 1em;
+ }
 }
