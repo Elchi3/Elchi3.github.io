@@ -6,7 +6,8 @@ layout: nil
 
   <title>florianscholz.com</title>
   <link href="http://florianscholz.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://florianscholz.com/atom.xml"/>
+  <link type="application/atom+xml" rel="self" href="http://florianscholz.com/feed.xml"/>
+  <link type="text/html" rel="alternate" href="http://florianscholz.com/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://florianscholz.com/</id>
   <author>
