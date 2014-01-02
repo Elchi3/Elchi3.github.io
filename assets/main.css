@@ -110,6 +110,10 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+.post img {
+  max-width: 100%;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -118,6 +122,7 @@ ul.posts span {
 
 .post ul, .post ol {
   margin-left: 1.35em;
+  margin-bottom: 1em;
 }
 
 .post code {
