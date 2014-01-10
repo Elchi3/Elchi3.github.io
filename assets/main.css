@@ -87,22 +87,35 @@ ul.posts span {
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 2em;
+  padding-top: 2em;
   overflow: hidden;
 }
 
-.site .footer .column {
+.site .footer .gravatar img {
+  border-radius: 5px;
+  margin-right: 13px;
   float: left;
-  margin-right: 3em;
 }
 
-.site .footer .column a {
-  color: #8085C1;
+.site .footer .bio {
+  width: 500px;
+  float: left;
 }
 
-.site .footer .column ul {
-  margin: 1em 0;
-  list-style: none;
+.site .footer .disclaimer {
+  width: 230px;
 }
+
+.site .footer .links {
+  margin-top: 15px;
+  float: left;
+}
+
+.site .footer .mdn {
+  float: right;
+  margin-top: 15px;
+}
+
 
 /*****************************************************************************/
 /*
@@ -159,4 +172,14 @@ ul.posts span {
   ul.posts li {
     margin: 0 0 1em;
  }
+ .site .footer .mdn {
+    float: none;
+    text-align: center;
+  }
+  .site .footer .bio {
+    width: 100%;
+  }
+  .site .footer .disclaimer {
+    width: 100%;
+  }
 }
