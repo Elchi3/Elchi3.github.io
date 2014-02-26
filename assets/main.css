@@ -107,6 +107,13 @@ ul.posts span {
 .site .footer .links {
   margin-top: 15px;
   float: left;
+  width: 60%;
+}
+
+@media (max-width: 600px) {
+  .site .footer .links {
+    width: 100%;
+  }
 }
 
 .site .footer .links ul {
