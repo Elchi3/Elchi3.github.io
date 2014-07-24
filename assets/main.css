@@ -107,19 +107,13 @@ ul.posts span {
   float: left;
 }
 
-.site .footer .bio {
-  width: 500px;
-  float: left;
-}
-
+.site .footer .bio,
 .site .footer .disclaimer {
-  width: 230px;
+  width: 500px;
 }
 
 .site .footer .links {
   margin-top: 15px;
-  float: left;
-  width: 60%;
 }
 
 @media (max-width: 600px) {
@@ -129,9 +123,9 @@ ul.posts span {
 }
 
 .site .footer .links ul {
-  -moz-columns: 3 190px;
+  -moz-columns: 3 180px;
   -moz-column-gap: 15px;
-  -webkit-columns: 3 190px;
+  -webkit-columns: 3 180px;
   -webkit-column-gap: 15px;
   list-style: none;
 }
@@ -151,18 +145,12 @@ ul.posts span {
 }
 
 .site .footer .mdn {
-  float: left;
   margin-top: 25px;
 }
 
 .site .footer .mdn img {
   width: 100%;
   max-width: 498px;
-}
-
-.site .footer .disclaimer{
-  width: 100%;
-  float: left;
 }
 
 
@@ -223,17 +211,15 @@ ul.posts span {
   }
   ul.posts li {
     margin: 0 0 1em;
- }
- .site .footer .links ul {
-  -moz-columns: 3 150px;
-  -moz-column-gap: 15px;
-  -webkit-columns: 3 150px;
-  -webkit-column-gap: 15px;
-  list-style: none;
-}
-  .site .footer .bio {
-    width: 100%;
   }
+  .site .footer .links ul {
+    -moz-columns: 3 150px;
+    -moz-column-gap: 15px;
+    -webkit-columns: 3 150px;
+    -webkit-column-gap: 15px;
+    list-style: none;
+  }
+  .site .footer .bio,
   .site .footer .disclaimer {
     width: 100%;
   }
