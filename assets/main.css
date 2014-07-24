@@ -225,9 +225,9 @@ ul.posts span {
     margin: 0 0 1em;
  }
  .site .footer .links ul {
-  -moz-columns: 2 150px;
+  -moz-columns: 3 150px;
   -moz-column-gap: 15px;
-  -webkit-columns: 2 150px;
+  -webkit-columns: 3 150px;
   -webkit-column-gap: 15px;
   list-style: none;
 }
