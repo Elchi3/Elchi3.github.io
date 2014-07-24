@@ -17,6 +17,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
+  font-weight: 600;
+  font-family: 'Fira Sans';
 }
 
 h1 { margin-bottom: 1em; }
@@ -38,7 +40,7 @@ ul.posts {
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  margin-top: 1%;
 }
 
 ul.posts span {
@@ -53,6 +55,15 @@ ul.posts span {
 /* Site
 /*
 /*****************************************************************************/
+
+.gravatar {
+  float: right;
+  margin-top: -2%;
+}
+
+.gravatar img {
+  border-radius: 50%;
+}
 
 .site {
   font-size: 115%;
@@ -73,6 +84,7 @@ ul.posts span {
   margin-bottom: 20px;
   letter-spacing: 5px;
   font-size: 300%;
+  margin-top: 3%;
 }
 
 .site .header h1.title a,
@@ -117,15 +129,16 @@ ul.posts span {
 }
 
 .site .footer .links ul {
-  -moz-columns: 2 125px;
-  -moz-column-gap: 50px;
-  -webkit-columns: 2 125px;
-  -webkit-column-gap: 50px;
+  -moz-columns: 3 190px;
+  -moz-column-gap: 15px;
+  -webkit-columns: 3 190px;
+  -webkit-column-gap: 15px;
   list-style: none;
 }
 
 .site .footer .links ul li {
-  padding: 5px 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .site .footer .links .fa {
@@ -138,8 +151,18 @@ ul.posts span {
 }
 
 .site .footer .mdn {
-  float: right;
-  margin-top: 15px;
+  float: left;
+  margin-top: 25px;
+}
+
+.site .footer .mdn img {
+  width: 100%;
+  max-width: 498px;
+}
+
+.site .footer .disclaimer{
+  width: 100%;
+  float: left;
 }
 
 
@@ -192,16 +215,22 @@ ul.posts span {
 /*****************************************************************************/
 
 @media (max-width: 600px) {
+  .gravatar {
+    display: none;
+  }
   .site .header h1.title {
     font-size: 175%;
   }
   ul.posts li {
     margin: 0 0 1em;
  }
- .site .footer .mdn {
-    float: none;
-    text-align: center;
-  }
+ .site .footer .links ul {
+  -moz-columns: 2 150px;
+  -moz-column-gap: 15px;
+  -webkit-columns: 2 150px;
+  -webkit-column-gap: 15px;
+  list-style: none;
+}
   .site .footer .bio {
     width: 100%;
   }

@@ -19,17 +19,16 @@
 
         <div class="site">
           <div class="header">
+            <div class="gravatar">
+              <img src="http://www.gravatar.com/avatar/7e6c0a216041d48fa163d471e5d71086.png"
+                   alt="Florian Scholz" />
+            </div>
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
           </div>
 
           {{ content }}
 
           <div class="footer">
-
-            <div class="gravatar">
-              <img src="http://www.gravatar.com/avatar/7e6c0a216041d48fa163d471e5d71086.png"
-                   alt="Florian Scholz" />
-            </div>
             
             <div class="bio">
               <p><strong>Florian Scholz</strong>, Technical Writer at <a href="http://mozilla.org">Mozilla</a>,
@@ -71,16 +70,18 @@
                      Mail
                    </a>
                </ul>
-               <p class="disclaimer">The opinions expressed here are my own and do not
-               necessarily represent those of current or past employers.
-               <a href="{{ site.url }}/imprint/">Imprint</a>.</p>
             </div>
 
             <div class="mdn">
               <a href="http://developer.mozilla.org">
-                <img src="/assets/img/mdn_promobanner_240x240px.jpg"
+                <img src="/assets/img/nb_mdn_promobanner_240x240px.jpg"
                    alt="Open docs for an open Web" />
               </a>
+            </div>
+            <div class="disclaimer">
+              <p>The opinions expressed here are my own and do not
+               necessarily represent those of current or past employers.
+               <a href="{{ site.url }}/imprint/">Imprint</a>.</p>
             </div>
 
           </div>
