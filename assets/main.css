@@ -87,11 +87,6 @@ ul.posts span {
   margin-top: 3%;
 }
 
-.site .header h1.title a,
-.fa-rss {
-  color: rgb(255, 128, 62);
-}
-
 .site .footer {
   font-size: 80%;
   color: #666;
@@ -133,11 +128,6 @@ ul.posts span {
 .site .footer .links ul li {
   padding-top: 5px;
   padding-bottom: 5px;
-}
-
-.site .footer .links .fa {
-  vertical-align: middle;
-  margin-right: 10px;
 }
 
 .site .footer .links a {
