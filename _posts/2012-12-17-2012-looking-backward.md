@@ -3,7 +3,6 @@ layout: post
 title: "2012: Looking backward"
 date: 2012-12-17 21:48:00
 categories: Personal
-comments: true
 ---
 
 The year 2012. After 2010 maybe the most exciting year ever. In January I moved 

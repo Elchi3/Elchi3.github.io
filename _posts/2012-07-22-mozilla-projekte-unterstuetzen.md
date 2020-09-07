@@ -3,7 +3,6 @@ layout: post
 title: "Mozilla-Projekte unterstützen"
 date: 2012-07-22 13:33:37
 categories: Mozilla.de
-comments: true
 ---
 
 Es wird immer mal wieder die Frage in den Raum geworfen, wie man denn eigentlich 

@@ -3,7 +3,6 @@ layout: post
 title: "2013: Looking backward"
 date: 2014-01-07 18:00:00
 categories: Personal
-comments: true
 ---
 
 Last year I said <a href="http://florianscholz.com/2012/12/2012-looking-backward/">

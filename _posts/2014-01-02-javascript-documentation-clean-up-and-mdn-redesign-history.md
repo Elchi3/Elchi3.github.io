@@ -3,7 +3,6 @@ layout: post
 title: "JavaScript documentation clean-up and MDN redesign history"
 date: 2014-01-02 18:00:00
 categories: Mozilla
-comments: true
 mozplanet: true
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "Are we documented yet?"
 date: 2014-03-17 15:00:00
 categories: Mozilla
-comments: true
 mozplanet: true
 ---
 
