@@ -1,4 +1,3 @@
 name: florianscholz.com
 permalink: /:year/:month/:title
-markdown: redcarpet
 highlighter: pygments
