@@ -14,7 +14,7 @@ and trying to recap highlights of 2013 after the fact. My
 short messages. I picked some highlights in chronological order.
 
 
-<h3>Software developer</h3>
+<h2>Software developer</h2>
 In January, I officially became a software developer. I finished my apprenticeship
 successfully and continued to work full-time at <a href="http://www.hmmh.de">hmmh</a>
 developing websites and managing some open source community efforts in the
@@ -28,7 +28,7 @@ to be very difficult as I found out during the first months of the year.
 </a>
 
 
-<h3>Web Platform Doc Sprint Berlin</h3>
+<h2>Web Platform Doc Sprint Berlin</h2>
 February. The first event of the year was not about MDN, but about the new kid
 <a href="http://webplatform.org">WebPlatform.org</a>.
 The <a href="http://lanyrd.com/2013/wpds/">documentation sprint</a> took place at
@@ -47,7 +47,7 @@ Thanks to <a href="https://twitter.com/dantz">Andreas Dantz</a> for this photo
 (we have met later in the year for real, too! Who would have known!)
 
 
-<h3>Moving for more rock n roll </h3>
+<h2>Moving for more rock n roll </h2>
 In late February I got glasses 8-) A friend and I went to another concert of
 <a href="http://en.wikipedia.org/wiki/Madsen_%28band%29">Madsen</a> in March
 which I liked a lot. I should add more concerts to my calendar!<br />
@@ -60,7 +60,7 @@ including getting an internet connection, which turned out to be the most horrib
 thing for me in 2013. But never give up, keep on rocking!
 
 
-<h3>Berlin calling again</h3>
+<h2>Berlin calling again</h2>
 April. \#deHacking. Several German Mozilla hackers got together and presented different
 areas they contribute to in Mozilla spheres. I talked about MDN and how we try
 to document all the fancy stuff. This was a great get together. Kudos to
@@ -73,7 +73,7 @@ to document all the fancy stuff. This was a great get together. Kudos to
 More <a href="https://www.flickr.com/photos/jviereck/sets/72157633351776766/">photos by jviereck</a>.
 
 
-<h3>Vancouver, BC, Canada</h3>
+<h2>Vancouver, BC, Canada</h2>
 
 Still April and no internet connection in my flat, but I was able to tweet from a plane while above
 <a href="http://twitpic.com/cluqei">Greenland in 10600 meters altitude with 830 km/h</a>.
@@ -93,7 +93,7 @@ relaxing walk through Stanley Park and Vancouver city with
 More <a href="http://www.flickr.com/photos/florianscholz/sets/72157633374879254/">photos from Vancouver</a>.
 
 
-<h3>Leveling up with Mozilla</h3>
+<h2>Leveling up with Mozilla</h2>
 May till August was different. No internet connection in my flat; my day-to-day job.
 Sometimes you just go to work and live from week to week. And summer. And things.
 
@@ -108,7 +108,7 @@ day whether it will mean the end or the next level for me and MDN. On July 1st, 
 the contract. Good moment. Super happy and a bit afraid of the new upcoming task,
 the last 3 months of agency life began.
 
-<h3>#t3chh</h3>
+<h2>#t3chh</h2>
 My last gig. In lovely Hamburg almost my entire team attended a TYPO3 barcamp.
 I spoke about open source communities, about "the Cathedral and the Bazaar" and
 got to know some new stuff in PHP development. <br />
@@ -120,7 +120,7 @@ I had many telephone calls and also considered a different ISP, but things were
 just ridiculous and my patience got really really taxed. Meh.
 
 
-<h3>Toronto</h3>
+<h2>Toronto</h2>
 <a href="https://twitter.com/davidwalshblog/statuses/369568793611100160">
   <img src="https://pbs.twimg.com/media/BSD43BeCYAAuon8.jpg:large" alt="Developer Engagement Toronto">
 </a>
@@ -135,7 +135,7 @@ and <a href="http://www.barcheftoronto.com/">BarChef</a> - the most epic cocktai
 bar I have seen so far (albeit their Flash website).
 
 
-<h3>Rockability</h3>
+<h2>Rockability</h2>
 Right out of the plane from Toronto on to rock n roll:
 <a href="http://www.youtube.com/watch?v=_4X9EkrMkYA">Ärztival</a> in Bremen in
 the same night.
@@ -151,7 +151,7 @@ I only took a few
 <a href="http://www.flickr.com/photos/florianscholz/sets/72157637202925593/">photos</a> -
 it was fun!
 
-<h3>Technical Writer</h3>
+<h2>Technical Writer</h2>
 Monday, September 30, 2013. My first day at Mozilla. I got my work computer on
 the weekend before and was still setting things up. And then you sit there Monday
 morning in your flat, online on the interwebz and realize: "Oh - this is work now!".
@@ -162,7 +162,7 @@ a coffee with you, okay, but always reachable via mail, Vidyo or IRC and happy t
 help you. After moving out to my own flat, this was the second step in 2013 for a
 new self-dependent life.
 
-<h3>The summit</h3>
+<h2>The summit</h2>
 The new job began and in the first week I was flying to California for the Mozilla
 summit and two onboarding weeks in Mountain View and in San Francisco.
 However, I was about to get stuck at Frankfurt airport, because I forgot to renew
@@ -191,7 +191,7 @@ project and we had an <a href="https://twitter.com/groovecoder/status/3870570853
 with some folks from India. Wow!
 
 
-<h3>Onboarding</h3>
+<h2>Onboarding</h2>
 After the summit I spent a week at the Mozilla headquarters in Mountain View.
 Ali got me a Firefox OS <a href="http://www.geeksphone.com/">Geeksphone Keon</a>
 and I enjoyed working in the office. Not much sights in Mountain View, but I took
@@ -202,7 +202,7 @@ I moved near to the San Francisco office afterwards and spent some days in the
 <a href="http://www.flickr.com/photos/florianscholz/sets/72157637205589805/">lovely city at the west coast</a>.
 Our San Francisco office is probably the one I like the most right now.
 
-<h3>JavaScript documentation / MDN redesign</h3>
+<h2>JavaScript documentation / MDN redesign</h2>
 Back in Bremen I learned how to work remotely and got deep into
 <a href="http://florianscholz.com/2014/01/javascript-documentation-clean-up-and-mdn-redesign-history/">
 JavaScript documentation clean-up and our redesign</a>.
@@ -210,7 +210,7 @@ JavaScript documentation clean-up and our redesign</a>.
 The year ended with two weeks of rest and I was meeting family and friends. Similar
 to last year and very good for energizing.
 
-<h3>Thank you</h3>
+<h2>Thank you</h2>
 
 Thanks to all the amazing people I met in 2013! I look forward to 2014 with all
 the fun and the challenges.

@@ -47,8 +47,8 @@ Where had contents come from originally? How did MDN grow up? Let's take an
 and have a look at what has happened over the years.
 
 
-<h3 id="y2000">DevEdge, 2000 - 2005 [<a href="{{ site.url }}/assets/img/mdn-2000.png">Image</a>,
-<a href="https://web.archive.org/web/20021202221020/http://devedge.netscape.com/library/manuals/2000/javascript/1.5/reference/regexp.html">archive.org</a>]</h3>
+<h2 id="y2000">DevEdge, 2000 - 2005 [<a href="{{ site.url }}/assets/img/mdn-2000.png">Image</a>,
+<a href="https://web.archive.org/web/20021202221020/http://devedge.netscape.com/library/manuals/2000/javascript/1.5/reference/regexp.html">archive.org</a>]</h2>
 In the early days there was DevEdge. The developer documentation from Netscape
 and the origin of todays MDN (JavaScript) documentation.
 It had a white and blue design. Our RegExp object test site is documented on a single page
@@ -69,8 +69,8 @@ but look ma, no tables!
 On October 12, 2004, the popular developer website was shut down by AOL.
 
 
-<h3 id="y2005">MDC (MediaWiki), 2005 - 2008 [<a href="{{ site.url }}/assets/img/mdn-2005.png">Image</a>,
-<a href="https://web.archive.org/web/20051227012548/http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:Global_Objects:RegExp:test">archive.org</a>]</h3>
+<h2 id="y2005">MDC (MediaWiki), 2005 - 2008 [<a href="{{ site.url }}/assets/img/mdn-2005.png">Image</a>,
+<a href="https://web.archive.org/web/20051227012548/http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:Global_Objects:RegExp:test">archive.org</a>]</h2>
 
 Mitchell Baker and others "<a href="https://blog.lizardwrangler.com/2005/02/23/devmo-and-devedge-updates/">reached
 an agreement with AOL that allows us to post, modify, and create new
@@ -98,8 +98,8 @@ anyone is welcome to help making it better and to share knowledge.
 Large contents of XULPlanet.com got migrated to MDC in 2008 (<code>$migration++</code>).
 
 
-<h3 id="y2008">MDC (MindTouch Deki), 2008 - 2011 [<a href="{{ site.url }}/assets/img/mdn-2008.png">Image</a>,
-<a href="https://web.archive.org/web/20080907192444/http://developer.mozilla.org/en/Core_JavaScript_1.5_Reference/Global_Objects/RegExp/test">archive.org</a>]</h3>
+<h2 id="y2008">MDC (MindTouch Deki), 2008 - 2011 [<a href="{{ site.url }}/assets/img/mdn-2008.png">Image</a>,
+<a href="https://web.archive.org/web/20080907192444/http://developer.mozilla.org/en/Core_JavaScript_1.5_Reference/Global_Objects/RegExp/test">archive.org</a>]</h2>
 Announced in <a href="http://www.bitstampede.com/2007/11/16/mdc-big-changes-ahead/">November 2007</a>
 and live in <a href="http://www.bitstampede.com/2008/08/19/mdc-on-deki-now-alive/">August 2008</a>,
 the Mozilla Developer Center switched to MindTouch DekiWiki.
@@ -112,8 +112,8 @@ tool links have moved to the top along with the breadcrumb navigation. The conte
 itself was still almost the same - only minor changes.
 
 
-<h3 id="y2011">MDN (MindTouch Deki), 2011 - 2012 [<a href="{{ site.url }}/assets/img/mdn-2011.png">Image</a>,
-<a href="https://web.archive.org/web/20111109184541/https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/RegExp/test">archive.org</a>]</h3>
+<h2 id="y2011">MDN (MindTouch Deki), 2011 - 2012 [<a href="{{ site.url }}/assets/img/mdn-2011.png">Image</a>,
+<a href="https://web.archive.org/web/20111109184541/https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/RegExp/test">archive.org</a>]</h2>
 Redesign time! No wiki engine change or migration. Just a redesign! The colors changed
 to a more dark skin. Header and footer were now black. The main article looks like
 it is on a piece of paper and the content was emphasized from the rest of the site.
@@ -122,8 +122,8 @@ colors more drastically than any other redesign in the past. Our RegExp test pag
 got minor content additions and at least does not talk about "NES" anymore.
 
 
-<h3 id="y2012">MDN (Kuma), 2012 - 2013 [<a href="{{ site.url }}/assets/img/mdn-2012.png">Image</a>,
-<a href="https://web.archive.org/web/20121013150508/https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/RegExp/test">archive.org</a>]</h3>
+<h2 id="y2012">MDN (Kuma), 2012 - 2013 [<a href="{{ site.url }}/assets/img/mdn-2012.png">Image</a>,
+<a href="https://web.archive.org/web/20121013150508/https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/RegExp/test">archive.org</a>]</h2>
 <a href="https://github.com/mozilla/kuma">Kuma</a>. Forked from
 <a href="https://github.com/mozilla/kitsune">Kitsune</a> in early 2011 and
 <a href="http://www.bitstampede.com/2012/08/03/introduction-to-kuma-templates-and-scripts/">launched on August 3, 2012</a>,
@@ -139,7 +139,7 @@ is wiki. Just hit edit and kick some ass! It's easy as that! (even our beloved
 spammers found out).
 
 
-<h3 id="y2013">MDN (Kuma), 2013 - present [<a href="{{ site.url }}/assets/img/mdn-2013.png">Image</a>]</h3>
+<h2 id="y2013">MDN (Kuma), 2013 - present [<a href="{{ site.url }}/assets/img/mdn-2013.png">Image</a>]</h2>
 Huh? Blue and white again? Yes! (no M$ conspiracies here, really!)
 The recent redesign has been discussed a lot. So, I want to have a closer look at
 the JavaScript reference page. We can see several new things
@@ -159,7 +159,7 @@ Description, Examples, Specifications and Browser compatibility.
 engines have been fixed. Lots of house cleaning.
 
 
-<h3 id="y2014">2014 and onward</h3>
+<h2 id="y2014">2014 and onward</h2>
 Long journey. Still here?
 Do you know the value of <code>$migration</code>? In December, Will Bamberg migrated
 the <a href="https://addons.mozilla.org/en-US/developers/docs/sdk/latest/">Addon-SDK</a>,

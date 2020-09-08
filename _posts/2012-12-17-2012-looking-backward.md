@@ -28,7 +28,7 @@ time line and photos are available on
 some of the best moments here. Let the journey begin... Fasten your seat belts,
 please!
 
-<h3>The new hate-love</h3>
+<h2>The new hate-love</h2>
 So, January and February were really cold. Down to minus 15 degrees and more on 
 several days in a row. I ride my bike everyday, so I really care about weather
 mostly. At work I was busy with the new thing: 
@@ -39,7 +39,7 @@ was interesting to compare the process with Mozilla's. Different bug tracker
 system, review system and new people.  I haven't found out anything about the 
 community at this point. That had to wait until November.
 
-<h3>London #1</h3>
+<h2>London #1</h2>
 March. I haven't had real vacation for a while. I quickly visited the CeBIT in 
 Hanover for a day and then packed bags for some days off in London. I took two 
 friends with me flying with RyanAir from Bremen to Stansted. Three days of fun: 
@@ -48,7 +48,7 @@ playing tourist, going out to really nice clubs, sleeping in a very cheap
 hostel. Freedom. Life in a big city. We've got to know a guy from Brasil and 
 played billiards with funny people from California until early in the mornings.
 
-<h3>New York City</h3>
+<h2>New York City</h2>
 Only 5 days at home after London. Next stop: Big Apple. Perfect Lufthansa flight
 with BBC Sherlock and TBBT episodes. Even Currywurst on board. First thing in 
 NYC: The taxi driver kidded me, I was too tired to notice it. With less bucks 
@@ -63,7 +63,7 @@ empowering us. The trip ended with the very first MDN hack day at
 <a href="http://nwc.co/">New Work City</a>, a nice co-working space in 
 Manhattan.
 
-<h3>San Francisco and the valley</h3>
+<h2>San Francisco and the valley</h2>
 April. Easter fire is the only thing I like about Easter, I think. Nothing worth
 to mention otherwise. At work I held a presentation about what I was doing in 
 New York City and about MDN/Mozilla in general. It felt like I connect two 
@@ -85,7 +85,7 @@ of the skyline of such a great city. It just felt good. Got sunburnt, played
 tourist, wandered around in the evening and then had to say good bye. An Airbus 
 A380 got me back to Europe again.
 
-<h3>Hurricane</h3>
+<h2>Hurricane</h2>
 No, the weather in Europe was awesome, which was really good after being in 
 California. May was super busy and at the weekends I was trying to enjoy the
 sun. My hometown celebrated 
@@ -100,7 +100,7 @@ very first festival, I definitely liked it. Later in July the Breminale took
 place, a small festival in Bremen near the Weser, which was lovely, too. Good 
 times. June and July were summerish and that was awesome.
 
-<h3>Toronto and Niagara Falls</h3>
+<h2>Toronto and Niagara Falls</h2>
 August. Two months in Europe. Time for another trip? Indeed. The MDN team was 
 inviting me to a planning meeting in Toronto, Canada. We've prioritized features
 for the Kuma platform. Writers, developers, contributors together in fruitful 
@@ -117,7 +117,7 @@ still discussing MDN and Mozilla related things. That was amazing and then
 somewhat hard to say goodbye but we've met again: In Warsaw, Poland and in 
 London, Great Britain.
 
-<h3>Days off: Bike ride to Hamburg and Lübeck</h3>
+<h2>Days off: Bike ride to Hamburg and Lübeck</h2>
 Still August. A week after being back in Europe a friend and I made a tough 
 bike tour: More than 130 kilometers on one day to our first stop: Hamburg. I've 
 been there before often but Hamburg is always worth a visit. Besides the
@@ -130,7 +130,7 @@ bike ride was to Lübeck, another 70 kilometers or so. I stopped in
 and then Lübeck was, well, somehow boring. Pretty at night, but that's about it
 imho. Back via train.
 
-<h3>MozCamp Europe</h3>
+<h2>MozCamp Europe</h2>
 September. Train time again, 9 hours in total. 
 <a href="http://de.wikipedia.org/wiki/Berlin-Warszawa-Express">Berlin-Warszawa-Express</a>
 to MozCamp Europe for a weekend. Met awesome Mozillians again, got reminded what
@@ -138,7 +138,7 @@ our mission for an open web is, attended interesting sessions. The "we" feeling
 at it's best. Never was so passionate about my Mozilla-related work; MozCamps 
 really show that there is something big and good you are part of all the time.
 
-<h3>London #2</h3>
+<h2>London #2</h2>
 Two weeks later. Travel time again. Via Amsterdam to London and perfect view 
 from the plane above the city of London. I took a friend with me amd we stayed 
 for six days in a nice hotel near Leicester Square, where the Mozilla office is 
@@ -153,7 +153,7 @@ good one. It was like a concert and the Fab Four really looked like the original
 ones. Unforgettable. We've wandered around on Tuesday, visited the Tate Modern
 and Madame Tussauds, which I liked as well.
 
-<h3>Final countdown</h3>
+<h2>Final countdown</h2>
 Back at home I had a wisdom teeth removal and a lot of work in October and
 November because of final exams and final papers for my ending apprenticeship. 
 A good break was the Ärzte concert in Oldenburg, which was really funny. It was 
@@ -161,7 +161,7 @@ also the time when I had to decide where my journey should go on after the
 apprenticeship. Difficult times, very difficult. Some private hickups in 
 addition.
 
-<h3>T3CRR</h3>
+<h2>T3CRR</h2>
 November. TYPO3 Camp Rhein Ruhr. As I said, I mostly work with TYPO3 at work 
 and in November two colleagues and I went to Essen. The location, the 
 <a href="http://www.unperfekthaus.de/">Unperfekthaus</a> was very artistically 
@@ -177,7 +177,7 @@ TYPO3 people and found out that they want to change something. I'm impressed how
 much I'm concerned about community and what a good job Mozilla does - it's not 
 self-evident.
 
-<h3>December</h3>
+<h2>December</h2>
 December is slowing things down. Less work, only exams and a decision has been 
 made: For now I'm continuing to work on TYPO3 sites for my current employer. 
 I've written final exams already and the oral exam is in January. I feel like I 

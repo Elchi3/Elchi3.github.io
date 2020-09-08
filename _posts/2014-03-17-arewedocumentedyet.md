@@ -28,7 +28,7 @@ I thought about building new tools that could answer how are doing today. Fortun
 <a href="https://github.com/mozilla/kuma">Kuma and KumaScript</a>
 are open source and hackable, so that I was able to build new tools directly into MDN.
 
-<h3 id="doc_status_pages">Introducing documentation status pages</h3>
+<h2 id="doc_status_pages">Introducing documentation status pages</h2>
 So, how can we measure if <em>we are documented yet</em>, today?
 
 The MDN documentation team switched to concentrate on content topics rather than
@@ -66,7 +66,7 @@ Quality indicators:
  might find more in the future and expand this list. Let me know if you have ideas!
 
 
-<h3>Open to do list</h3>
+<h2>Open to do list</h2>
 Besides the automatically created quality indication list, there is also room for 
 sharing what else is needed in the content section. For example, for JavaScript, we need to 
 <a href="http://florianscholz.com/2014/01/javascript-documentation-clean-up-and-mdn-redesign-history/">
@@ -75,7 +75,7 @@ That information should be available in the open and shared with people interest
 in writing on MDN. So, if you are asking <em>what you can do for MDN</em>,
 you should find answers there!
  
-<h3 id="localization_status">Introducing localization status pages</h3>
+<h2 id="localization_status">Introducing localization status pages</h2>
 
 When localizing MDN, we are speaking of 
 <a href="https://developer.mozilla.org/en-US/docs/all">11,000 pages</a>. This is
@@ -93,7 +93,7 @@ Here is an example that lists the
 Also have a look of the translation overview pages, e.g. 
 <a href="https://developer.mozilla.org/ja/docs/MDN/Doc_status/Overview">all sections for Japanese</a>.
 
-<h3 id="help">Help us!</h3>
+<h2 id="help">Help us!</h2>
 
 With these status pages for both, English documentation and the translations, a lot
 of work becomes visible. If you have expertise in one or more of the topic sections,
@@ -110,7 +110,7 @@ are looking into increasing that number.
 
 Let's document the Open Web!
 
-<h3 id="doc-status-api">PS: Pretty graphs using the doc status API</h3>
+<h2 id="doc-status-api">PS: Pretty graphs using the doc status API</h2>
 How about a nice page like <a href="http://www.arewefastyet.com/">arewefastyet.com</a> 
 or <a href="https://areweslimyet.com/">areweslimyet.com</a>? I have built a 
 documentation status API. Anyone wants to collect data and make that happen? :-)
