@@ -5,7 +5,7 @@ date: 2014-01-07 18:00:00
 categories: Personal
 ---
 
-Last year I said <a href="http://florianscholz.com/2012/12/2012-looking-backward/">
+Last year I said <a href="https://florianscholz.com/2012/12/2012-looking-backward/">
 2012 is hard to beat</a>, but 2013 really made it. I am just a  bit disappointed
 about not having written more about it. I take photos to remember trips and moments,
 but often written blog entries would have been better. So, I am again sitting down
@@ -16,32 +16,32 @@ short messages. I picked some highlights in chronological order.
 
 <h2>Software developer</h2>
 In January, I officially became a software developer. I finished my apprenticeship
-successfully and continued to work full-time at <a href="http://www.hmmh.de">hmmh</a>
+successfully and continued to work full-time at <a href="https://www.hmmh.de">hmmh</a>
 developing websites and managing some open source community efforts in the
 company. That also meant earning real money for the first time. I started to look
 for my own flat to avoid commuting almost 3 hours per day. Doing that for the
 last 2.5 years was enough. However, getting a good flat in Bremen turned out
 to be very difficult as I found out during the first months of the year.
 
-<a href="http://twitpic.com/bztjyy">
-  <img src="http://twitpic.com/show/large/bztjyy.jpg" alt="Finally in black and white">
+<a href="https://twitpic.com/bztjyy">
+  <img src="https://twitpic.com/show/large/bztjyy.jpg" alt="Finally in black and white">
 </a>
 
 
 <h2>Web Platform Doc Sprint Berlin</h2>
 February. The first event of the year was not about MDN, but about the new kid
-<a href="http://webplatform.org">WebPlatform.org</a>.
-The <a href="http://lanyrd.com/2013/wpds/">documentation sprint</a> took place at
-the <a href="http://www.supermarkt-berlin.net/">Supermarkt</a> in Berlin.
+<a href="https://webplatform.org">WebPlatform.org</a>.
+The <a href="https://lanyrd.com/2013/wpds/">documentation sprint</a> took place at
+the <a href="https://www.supermarkt-berlin.net/">Supermarkt</a> in Berlin.
 I met <a href="https://twitter.com/chrisdavidmills">Chris Mills</a>
 there for the first time and really liked some ideas he and others had about open web documentation on WPD.
 Of course not knowing we will meet again later in the year for new reasons. <br />
 I did one day of backpack wandering in Berlin afterwards. I enjoyed walking along
 the "Straße des 17. Juni" from the "Siegessäule" to the "Brandenburger Tor" in the cold
-Berlin. I took some <a href="http://www.flickr.com/photos/florianscholz/sets/72157632781739398/">photos</a>.
+Berlin. I took some <a href="https://www.flickr.com/photos/florianscholz/sets/72157632781739398/">photos</a>.
 
-<a href="http://www.flickr.com/photos/szene/8459312560/" title="Sprinting by andreasdantz on Flickr">
-  <img src="http://farm9.staticflickr.com/8235/8459312560_d5565f6c70_z.jpg" alt="Sprinting">
+<a href="https://www.flickr.com/photos/szene/8459312560/" title="Sprinting by andreasdantz on Flickr">
+  <img src="https://farm9.staticflickr.com/8235/8459312560_d5565f6c70_z.jpg" alt="Sprinting">
 </a>
 Thanks to <a href="https://twitter.com/dantz">Andreas Dantz</a> for this photo
 (we have met later in the year for real, too! Who would have known!)
@@ -49,7 +49,7 @@ Thanks to <a href="https://twitter.com/dantz">Andreas Dantz</a> for this photo
 
 <h2>Moving for more rock n roll </h2>
 In late February I got glasses 8-) A friend and I went to another concert of
-<a href="http://en.wikipedia.org/wiki/Madsen_%28band%29">Madsen</a> in March
+<a href="https://en.wikipedia.org/wiki/Madsen_%28band%29">Madsen</a> in March
 which I liked a lot. I should add more concerts to my calendar!<br />
 And: I finally moved to my own flat in April after four months of me being picky
 plus having been rejected by rentors because of age, gender and income (yes, this is
@@ -67,7 +67,7 @@ to document all the fancy stuff. This was a great get together. Kudos to
 <a href="https://twitter.com/jviereck">Julian Viereck</a> and to
 <a href="https://twitter.com/ttaubert">Tim Taubert</a> for organizing this.
 
-<a href="http://www.flickr.com/photos/jviereck/8681841600/">
+<a href="https://www.flickr.com/photos/jviereck/8681841600/">
   <img src="https://farm9.staticflickr.com/8390/8681841600_d0fb3c0dfd_z.jpg" alt="dehacking Berlin April 2013">
 </a>
 More <a href="https://www.flickr.com/photos/jviereck/sets/72157633351776766/">photos by jviereck</a>.
@@ -76,21 +76,21 @@ More <a href="https://www.flickr.com/photos/jviereck/sets/72157633351776766/">ph
 <h2>Vancouver, BC, Canada</h2>
 
 Still April and no internet connection in my flat, but I was able to tweet from a plane while above
-<a href="http://twitpic.com/cluqei">Greenland in 10600 meters altitude with 830 km/h</a>.
+<a href="https://twitpic.com/cluqei">Greenland in 10600 meters altitude with 830 km/h</a>.
 Sometimes life makes it's own jokes. <br />
 
 At the MDN Vancouver doc sprint we had good discussions about content planning and less
 actual sprinting. Nevertheless the outcome was fruitful and set milestones for
 the upcoming months. <a href="https://twitter.com/alispivak">Ali Spivak</a> was taking us to
-<a href="http://en.wikipedia.org/wiki/Granville_Island">Granville Island</a>
+<a href="https://en.wikipedia.org/wiki/Granville_Island">Granville Island</a>
 where we found awesome food and more on the public market. I also had a long and
 relaxing walk through Stanley Park and Vancouver city with
 <a href="https://twitter.com/JeremiePat">Jérémie Patonnier</a> afterwards.
 
-<a href="http://www.flickr.com/photos/florianscholz/8691165472/">
+<a href="https://www.flickr.com/photos/florianscholz/8691165472/">
   <img src="http://farm8.staticflickr.com/7056/8691165472_934956b00a_z.jpg" alt="MDN documentation team in Vancouver, Canada">
 </a>
-More <a href="http://www.flickr.com/photos/florianscholz/sets/72157633374879254/">photos from Vancouver</a>.
+More <a href="https://www.flickr.com/photos/florianscholz/sets/72157633374879254/">photos from Vancouver</a>.
 
 
 <h2>Leveling up with Mozilla</h2>
@@ -130,25 +130,25 @@ Fortunately, later in August, I was in the plane to Toronto again. The larger
 and we really got together quite well. On the first day, no mobiles or laptops
 were allowed and we did some team building activities. Good to get know what
 people in the team are up to and to see how my role fits into the larger picture.
-We visited <a href="http://www.steamwhistle.ca/">Steam Whistle</a>, a brewery in Toronto
-and <a href="http://www.barcheftoronto.com/">BarChef</a> - the most epic cocktail
+We visited <a href="https://www.steamwhistle.ca/">Steam Whistle</a>, a brewery in Toronto
+and <a href="https://www.barcheftoronto.com/">BarChef</a> - the most epic cocktail
 bar I have seen so far (albeit their Flash website).
 
 
 <h2>Rockability</h2>
 Right out of the plane from Toronto on to rock n roll:
-<a href="http://www.youtube.com/watch?v=_4X9EkrMkYA">Ärztival</a> in Bremen in
+<a href="https://www.youtube.com/watch?v=_4X9EkrMkYA">Ärztival</a> in Bremen in
 the same night.
 
 Good news in September: On the 19th, my internet connection was working finally.
-<a href="http://www.flickr.com/photos/florianscholz/tags/bremen/">Bremen</a>
+<a href="https://www.flickr.com/photos/florianscholz/tags/bremen/">Bremen</a>
 felt like my new localhost after half a year living there already.
 
 With my first day at Mozilla in front of me, it was time to do some vacationing before.
 End of September a friend and I did a train trip to Amsterdam for 3 days. We
 visited Heineken Brewery, Anne Frank House and more in the city of coffee shops.
 I only took a few
-<a href="http://www.flickr.com/photos/florianscholz/sets/72157637202925593/">photos</a> -
+<a href="https://www.flickr.com/photos/florianscholz/sets/72157637202925593/">photos</a> -
 it was fun!
 
 <h2>Technical Writer</h2>
@@ -168,13 +168,13 @@ summit and two onboarding weeks in Mountain View and in San Francisco.
 However, I was about to get stuck at Frankfurt airport, because I forgot to renew
 my ESTA visa (I was in 2011 in the US for the first time. ESTA is valid for two
 years - gotcha!). But life meant it good with me.
-<a href="http://home.kairo.at/">KaiRo</a> was in the same flight and he kind of
+<a href="https://home.kairo.at/">KaiRo</a> was in the same flight and he kind of
 calmed me down. While boarding, I set up a mobile hotspot with my phone, used his
 laptop to fill out the <a href="https://esta.cbp.dhs.gov/esta/">ESTA forms</a>,
 paid with my credit card and: Success! The airline accepted it and I got on board.
 Phew!
 
-The Mozilla summit was <a href="http://www.youtube.com/watch?v=LuyBGkbzTjs">pure awesomeness</a>.
+The Mozilla summit was <a href="https://www.youtube.com/watch?v=LuyBGkbzTjs">pure awesomeness</a>.
 I met long time MDN contributors like <a href="https://twitter.com/trevorhobson">Trevor Hobson</a> 
 from Australia and also Bill Gianopoulos with whom I organized a MathML booth at the
 innovation fair:
@@ -182,29 +182,29 @@ innovation fair:
 <img src="/assets/img/mathml-summit.jpg" alt="MathML at Mozilla Summit 2013" />
 
 The best session I attended was John O'Duinn's
-"<a href="http://oduinn.com/blog/2013/10/16/we-are-all-remoties-at-mozilla-summit/">We are all remoties</a>".
+"<a href="https://oduinn.com/blog/2013/10/16/we-are-all-remoties-at-mozilla-summit/">We are all remoties</a>".
 With me being at the company for just a few days, his talk was like the best
 introduction to remote work for me.
 
-I learned a lot more about the <a href="http://openbadges.org/">Open Badges</a>
+I learned a lot more about the <a href="https://openbadges.org/">Open Badges</a>
 project and we had an <a href="https://twitter.com/groovecoder/status/387057085331947521/photo/1">MDN Hack night</a> 
 with some folks from India. Wow!
 
 
 <h2>Onboarding</h2>
 After the summit I spent a week at the Mozilla headquarters in Mountain View.
-Ali got me a Firefox OS <a href="http://www.geeksphone.com/">Geeksphone Keon</a>
+Ali got me a Firefox OS <a href="https://www.geeksphone.com/">Geeksphone Keon</a>
 and I enjoyed working in the office. Not much sights in Mountain View, but I took
-a long walk through the city to the <a href="http://www.flickr.com/photos/florianscholz/sets/72157637205007376/">Computer History museum</a>,
+a long walk through the city to the <a href="https://www.flickr.com/photos/florianscholz/sets/72157637205007376/">Computer History museum</a>,
 where I also found artifacts from Mosaic and Netscape.
 
 I moved near to the San Francisco office afterwards and spent some days in the
-<a href="http://www.flickr.com/photos/florianscholz/sets/72157637205589805/">lovely city at the west coast</a>.
+<a href="https://www.flickr.com/photos/florianscholz/sets/72157637205589805/">lovely city at the west coast</a>.
 Our San Francisco office is probably the one I like the most right now.
 
 <h2>JavaScript documentation / MDN redesign</h2>
 Back in Bremen I learned how to work remotely and got deep into
-<a href="http://florianscholz.com/2014/01/javascript-documentation-clean-up-and-mdn-redesign-history/">
+<a href="https://florianscholz.com/2014/01/javascript-documentation-clean-up-and-mdn-redesign-history/">
 JavaScript documentation clean-up and our redesign</a>.
 
 The year ended with two weeks of rest and I was meeting family and friends. Similar

@@ -69,7 +69,7 @@ Quality indicators:
 <h2>Open to do list</h2>
 Besides the automatically created quality indication list, there is also room for 
 sharing what else is needed in the content section. For example, for JavaScript, we need to 
-<a href="http://florianscholz.com/2014/01/javascript-documentation-clean-up-and-mdn-redesign-history/">
+<a href="https://florianscholz.com/2014/01/javascript-documentation-clean-up-and-mdn-redesign-history">
 clean up our documentation for ECMAScript 6</a> and some tutorials and guides are missing, too.
 That information should be available in the open and shared with people interested
 in writing on MDN. So, if you are asking <em>what you can do for MDN</em>,

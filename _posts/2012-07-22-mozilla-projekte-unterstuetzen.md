@@ -10,8 +10,8 @@ bei Mozilla tätig werden kann. Ich möchte im Folgenden versuchen Antwort zu
 geben.
 
 Nach <a title="These bugs are relevant to my interests" 
-href="http://www.joshmatthews.net/bugsahoy/">Bugs Ahoy</a> hat Josh Matthews vor
-Kurzem <a title="What Can I Do For Mozilla" href="http://whatcanidoformozilla.org/">
+href="https://www.joshmatthews.net/bugsahoy/">Bugs Ahoy</a> hat Josh Matthews vor
+Kurzem <a title="What Can I Do For Mozilla" href="https://whatcanidoformozilla.org/">
 What Can I Do For Mozilla</a> gestartet und damit ebenfalls versucht, besser auf
 das Mitwirken an Mozilla-Projekten aufmerksam zu machen. Schauen wir uns beide 
 Seiten mal kurz an:
@@ -30,7 +30,7 @@ hier kann man sich je nach Kenntnissen und Interessen durch die Projekte
 klicken. Außerdem sind auch »Nebenprojekte« wie 
 <a title="PDF.js" href="https://wiki.mozilla.org/PDF.js">PDF.js</a>, 
 <a title="Shumway" href="https://github.com/mozilla/shumway">Shumway</a>, 
-<a title="Rust" href="http://www.rust-lang.org/">Rust</a> und einige mehr 
+<a title="Rust" href="https://www.rust-lang.org/">Rust</a> und einige mehr 
 aufgeführt, die ebenfalls von Mozilla unterstützt werden.
 
 <p style="text-align: center;"><strong>Klappern wir also mal ein paar Bereiche
@@ -65,10 +65,10 @@ Für die Endbenutzer gibt es jeweils Hilfsportale für
 <a href="https://support.mozilla.org/de/home">Firefox</a> und für 
 <a href="https://support.mozillamessaging.com/de/home">Thunderbird</a>. Dass es
 diese Artikel auf Deutsch gibt, ist freiwilligen Übersetzern zu verdanken. Auch 
-hier wird <a href="http://support.mozilla.org/de/localization#untranslated">
+hier wird <a href="https://support.mozilla.org/de/localization#untranslated">
 Unterstützung gebraucht</a>. Die Support-Community besteht auch aus klassischen 
-Foren wie etwa das <a href="http://www.camp-firefox.de/forum/">Firefox-Forum</a>
-oder das <a href="http://www.thunderbird-mail.de/forum/">Thunderbird-Forum</a>. 
+Foren wie etwa das <a href="https://www.camp-firefox.de/forum/">Firefox-Forum</a>
+oder das <a href="https://www.thunderbird-mail.de/forum/">Thunderbird-Forum</a>. 
 Weiteren Kontakt mit End-Usern gibt's durch die
 <a href="https://support.mozilla.org/de/army-of-awesome">Army of Awesome auf
 Twitter</a> und im Supportchannel 
@@ -110,11 +110,11 @@ und wie man dort helfen kann. Es finden regelmäßig Test-Events statt.
 * Interessiert <a href="https://wiki.mozilla.org/MarketingGuide">Marketing</a> für Mozilla zu betreiben?
 * Lust die nächste Generation des <a href="http://mozillaopennews.org/">Journalismus</a>
 im offenen Web mitzugestalten?
-* <a href="http://www.brandeins.de/magazin/freiraeume/jeder-ist-ein-lehrer.html">Lehrer</a>? 
+* <a href="https://www.brandeins.de/magazin/freiraeume/jeder-ist-ein-lehrer.html">Lehrer</a>? 
 Interessiert Menschen vom <em>Benutzern</em> des Internets zu <em>Machern</em> des 
 Internets zu bewegen? Die <a href="https://wiki.mozilla.org/Webmaker">Mozilla Webmaker</a>-Initiative 
 versucht das Verständnis von Webtechnologien zu erhöhen und 
-<a href="http://commonspace.wordpress.com/2011/09/12/mozilla-as-teacher/">der Welt
+<a href="https://commonspace.wordpress.com/2011/09/12/mozilla-as-teacher/">der Welt
 das Programmieren beizubringen</a>
 * Start-Up-Idee? Super! <a href="https://webfwd.org/">WebFWD</a> unterstützt neue
 Projektideen, die dem offenem Web dienen, Innovationen schaffen wollen und auf 
@@ -136,4 +136,4 @@ Fragen? Mittwochs um 21.00 Uhr in
 deutschsprachige Freiwillige aus den verschiedenen Mozilla-Projekten. Einfach 
 mal vorbei schauen und uns gerne mit Fragen löchern!
 
-<p style="text-align: center;"><a href="http://www.mozilla.org/en-US/contribute/">We believe in you!</a></p>
+<p style="text-align: center;"><a href="https://www.mozilla.org/en-US/contribute/">We believe in you!</a></p>

@@ -59,7 +59,7 @@ is given. In the content, tables are used to display summaries or key informatio
 Although the site is using the full width, there is also a good amount of unused
 white space between the sections and headlines.
 
-In 2003 a team at Netscape (including <a href="http://www.meyerweb.com">Eric Meyer</a>) overhauled the site to show a
+In 2003 a team at Netscape (including <a href="https://www.meyerweb.com">Eric Meyer</a>) overhauled the site to show a
 cross-browser, standards-based, accessible and user-controllable website:
 <a href="https://web.archive.org/web/20030411081826/http://devedge.netscape.com/viewsource/2003/devedge-redesign/">
 Netscape DevEdge Redesigns As Standards Showcase</a>.
@@ -93,15 +93,15 @@ The documentation is editable by anyone from now on. For the first time contents
 into other languages. A new collaborative element in Mozilla spheres was born and
 anyone is welcome to help making it better and to share knowledge.
 
-<a href="http://www.bitstampede.com/">Sheppy</a> joined Mozilla in April 2006.
+<a href="https://www.bitstampede.com/">Sheppy</a> joined Mozilla in April 2006.
 
 Large contents of XULPlanet.com got migrated to MDC in 2008 (<code>$migration++</code>).
 
 
 <h2 id="y2008">MDC (MindTouch Deki), 2008 - 2011 [<a href="{{ site.url }}/assets/img/mdn-2008.png">Image</a>,
 <a href="https://web.archive.org/web/20080907192444/http://developer.mozilla.org/en/Core_JavaScript_1.5_Reference/Global_Objects/RegExp/test">archive.org</a>]</h2>
-Announced in <a href="http://www.bitstampede.com/2007/11/16/mdc-big-changes-ahead/">November 2007</a>
-and live in <a href="http://www.bitstampede.com/2008/08/19/mdc-on-deki-now-alive/">August 2008</a>,
+Announced in <a href="https://www.bitstampede.com/2007/11/16/mdc-big-changes-ahead/">November 2007</a>
+and live in <a href="https://www.bitstampede.com/2008/08/19/mdc-on-deki-now-alive/">August 2008</a>,
 the Mozilla Developer Center switched to MindTouch DekiWiki.
 
 All contents were migrated from WikiText to HTML and DekiWiki templates (<code>$migration++</code>) and a new design
@@ -126,7 +126,7 @@ got minor content additions and at least does not talk about "NES" anymore.
 <a href="https://web.archive.org/web/20121013150508/https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/RegExp/test">archive.org</a>]</h2>
 <a href="https://github.com/mozilla/kuma">Kuma</a>. Forked from
 <a href="https://github.com/mozilla/kitsune">Kitsune</a> in early 2011 and
-<a href="http://www.bitstampede.com/2012/08/03/introduction-to-kuma-templates-and-scripts/">launched on August 3, 2012</a>,
+<a href="https://www.bitstampede.com/2012/08/03/introduction-to-kuma-templates-and-scripts/">launched on August 3, 2012</a>,
 is a Mozilla-built wiki platform based on Django with an own "KumaScript" macro
 system which uses Node.js. You have guessed it: All contents were migrated from
 DekiWiki to the Kuma platform (<code>$migration++</code>). As you can see on our page, the

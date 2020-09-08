@@ -22,9 +22,9 @@ reached now in January 2013. Something new will begin. Again.
 I want to look back at some highlights of 2012. I didn't manage to write down 
 <em>ALL</em> the awesome things, because I never sat down and took the time.
 The full story can always be read on my 
-<a title="@floscholz on Twitter" href="http://twitter.com/floscholz">Twitter</a>
+<a title="@floscholz on Twitter" href="https://twitter.com/floscholz">Twitter</a>
 time line and photos are available on
-<a href="http://www.flickr.com/photos/florianscholz/">flickr</a>. I will pick 
+<a href="https://www.flickr.com/photos/florianscholz/">flickr</a>. I will pick 
 some of the best moments here. Let the journey begin... Fasten your seat belts,
 please!
 
@@ -32,7 +32,7 @@ please!
 So, January and February were really cold. Down to minus 15 degrees and more on 
 several days in a row. I ride my bike everyday, so I really care about weather
 mostly. At work I was busy with the new thing: 
-<a title="TYPO3" href="http://typo3.org">TYPO3</a>. It is becoming what I have 
+<a title="TYPO3" href="https://typo3.org">TYPO3</a>. It is becoming what I have 
 to work with on a everyday basis the upcoming months. Since an open-source
 product, I rapidly created first patches and contributed to the code base. It 
 was interesting to compare the process with Mozilla's. Different bug tracker
@@ -43,7 +43,7 @@ community at this point. That had to wait until November.
 March. I haven't had real vacation for a while. I quickly visited the CeBIT in 
 Hanover for a day and then packed bags for some days off in London. I took two 
 friends with me flying with RyanAir from Bremen to Stansted. Three days of fun: 
-<a title="Fuller's" href="http://www.fullers.co.uk/">Fuller's brewery</a>, 
+<a title="Fuller's" href="https://www.fullers.co.uk/">Fuller's brewery</a>, 
 playing tourist, going out to really nice clubs, sleeping in a very cheap 
 hostel. Freedom. Life in a big city. We've got to know a guy from Brasil and 
 played billiards with funny people from California until early in the mornings.
@@ -56,11 +56,11 @@ but no less fun I wandered around in Manhattan the next day. Central Park,
 Apple Store, Empire State Building, awesome view at the observatory. I sat down 
 in parks, watched people and had some nice food. What a day!  The Mozilla 
 developer engagement team met at 
-<a href="http://www.aloftnewyorkbrooklyn.com/">Aloft Brooklyn</a>, we discussed 
+<a href="https://www.aloftnewyorkbrooklyn.com/">Aloft Brooklyn</a>, we discussed 
 how to improve MDN, developer engagement and evangelism. 
-<a href="http://stormyscorner.com/">Stormy</a> made a really good job at 
+<a href="https://stormyscorner.com/">Stormy</a> made a really good job at 
 empowering us. The trip ended with the very first MDN hack day at 
-<a href="http://nwc.co/">New Work City</a>, a nice co-working space in 
+<a href="https://nwc.co/">New Work City</a>, a nice co-working space in 
 Manhattan.
 
 <h2>San Francisco and the valley</h2>
@@ -89,10 +89,10 @@ A380 got me back to Europe again.
 No, the weather in Europe was awesome, which was really good after being in 
 California. May was super busy and at the weekends I was trying to enjoy the
 sun. My hometown celebrated 
-<a title="Flickr photos" href="http://www.flickr.com/photos/florianscholz/sets/72157630027231178/">Domweih</a>
+<a title="Flickr photos" href="https://www.flickr.com/photos/florianscholz/sets/72157630027231178/">Domweih</a>
 like every year at the beginning of June. It's a traditional and nice fest, 
 where you usually meet all your old friends. We had fun. But even more fun was 
-the <a href="http://www.hurricane.de/">Hurricane</a>, a rock festival in 
+the <a href="https://www.hurricane.de/">Hurricane</a>, a rock festival in 
 Scheeßel. About 70,000 people were sleeping in tents and forgetting the world 
 around them for three days. We listened to Just-Ice, The Cure, Ärzte, Madsen, 
 Mumford and Sons, Kraftklub, Florence and the Machine and many many more. My 
@@ -110,7 +110,7 @@ degrees. Got sunburnt again, wandered around, was on top of CN tower, took the
 red tourist bus and a made short river cruise. Ali, David, Jeremie and I also
 went to Niagara Falls which is an hour or two away from Toronto. 
 <a href="https://www.youtube.com/watch?v=rROoF8MZcG0">Maid of the mist boat 
-tour</a> and dinner at the <a href="http://www.fallsviewrestaurant.com/">falls 
+tour</a> and dinner at the <a href="https://www.fallsviewrestaurant.com/">falls 
 view restaurant</a> were highlights of this excursion. Empowered by all the 
 awesomeness David, Jeremie and I spent the last morning in a Starbucks and were 
 still discussing MDN and Mozilla related things. That was amazing and then 
@@ -122,17 +122,17 @@ Still August. A week after being back in Europe a friend and I made a tough
 bike tour: More than 130 kilometers on one day to our first stop: Hamburg. I've 
 been there before often but Hamburg is always worth a visit. Besides the
 obligatory tourist things, we've also been to a really nice musical called 
-"<a href="http://www.tivoli.de/index.php?id=event701">Heiße Ecke</a>" about the
+"<a href="https://www.tivoli.de/index.php?id=event701">Heiße Ecke</a>" about the
 story of the red-light district in Hamburg. We even had Currywurst in the 
 theater because a Currywurst stall was part of the story. Worth seeing! Next 
 bike ride was to Lübeck, another 70 kilometers or so. I stopped in 
-<a href="http://de.wikipedia.org/wiki/Neues_aus_B%C3%BCttenwarder">Büttenwarder</a>
+<a href="https://de.wikipedia.org/wiki/Neues_aus_B%C3%BCttenwarder">Büttenwarder</a>
 and then Lübeck was, well, somehow boring. Pretty at night, but that's about it
 imho. Back via train.
 
 <h2>MozCamp Europe</h2>
 September. Train time again, 9 hours in total. 
-<a href="http://de.wikipedia.org/wiki/Berlin-Warszawa-Express">Berlin-Warszawa-Express</a>
+<a href="https://de.wikipedia.org/wiki/Berlin-Warszawa-Express">Berlin-Warszawa-Express</a>
 to MozCamp Europe for a weekend. Met awesome Mozillians again, got reminded what
 our mission for an open web is, attended interesting sessions. The "we" feeling
 at it's best. Never was so passionate about my Mozilla-related work; MozCamps 
@@ -148,7 +148,7 @@ general. <a href="https://twitter.com/alispivak">Ali</a> has a good taste.
 After the sprint I wanted to see a bit of London too, we took the tourist bus 
 like I did in so many cities this year already. London is nice. On Monday 
 evening I wanted to go to a musical I had heard of before: 
-<a href="http://www.letitbelondon.com/">The Beatles</a>. Oh my god, that was a 
+<a href="https://www.letitbelondon.com/">The Beatles</a>. Oh my god, that was a 
 good one. It was like a concert and the Fab Four really looked like the original
 ones. Unforgettable. We've wandered around on Tuesday, visited the Tate Modern
 and Madame Tussauds, which I liked as well.
@@ -164,7 +164,7 @@ addition.
 <h2>T3CRR</h2>
 November. TYPO3 Camp Rhein Ruhr. As I said, I mostly work with TYPO3 at work 
 and in November two colleagues and I went to Essen. The location, the 
-<a href="http://www.unperfekthaus.de/">Unperfekthaus</a> was very artistically 
+<a href="https://www.unperfekthaus.de/">Unperfekthaus</a> was very artistically 
 and I attended my very first TYPO3 Barcamp. I had the chance to compare another 
 open-source project with Mozilla. Of course, Mozilla is way more bigger, but 
 there some essential things Mozilla understands to do better in my eyes. 
