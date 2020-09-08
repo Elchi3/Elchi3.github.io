@@ -88,7 +88,7 @@ relaxing walk through Stanley Park and Vancouver city with
 <a href="https://twitter.com/JeremiePat">Jérémie Patonnier</a> afterwards.
 
 <a href="https://www.flickr.com/photos/florianscholz/8691165472/">
-  <img src="http://farm8.staticflickr.com/7056/8691165472_934956b00a_z.jpg" alt="MDN documentation team in Vancouver, Canada">
+  <img src="https://farm8.staticflickr.com/7056/8691165472_934956b00a_z.jpg" alt="MDN documentation team in Vancouver, Canada">
 </a>
 More <a href="https://www.flickr.com/photos/florianscholz/sets/72157633374879254/">photos from Vancouver</a>.
 
