@@ -12,7 +12,7 @@ layout: null
   <id>http://florianscholz.com/</id>
   <author>
     <name>Florian Scholz</name>
-    <email>fs@foo.com</email>
+    <email>fs@florianscholz.com</email>
   </author>
 
   {% for post in site.posts %}
